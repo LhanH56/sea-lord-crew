@@ -52,16 +52,16 @@
             <p>Le capitaine de l'équipage de Sea Lord est un pirate redoutable, connu pour sa bravoure et sa force incroyable. Son objectif est de trouver le One Piece et de devenir le Roi des Pirates.</p>
         </section>
         <section class="crew-member">
-            <h2>Premier Membre : Luffy</h2>
-            <p>Luffy est un jeune homme avec des capacités élastiques grâce au fruit du démon Gomu Gomu. Il rêve de devenir le Roi des Pirates et ne recule devant aucun obstacle.</p>
+            <h2>Premier Membre : nomito</h2>
+            <p>nomito est un traitre avec des ambitions débile et une intélligence tres basse.</p>
         </section>
         <section class="crew-member">
-            <h2>Deuxième Membre : Zoro</h2>
-            <p>Zoro est un épéiste exceptionnel, maniant trois sabres avec une maîtrise incomparable. Il aspire à devenir le plus grand épéiste du monde.</p>
+            <h2>Deuxième Membre : MT_LK</h2>
+            <p>MT_LK est un Giga Shad exceptionnel, maniant un sabre avec une maîtrise incomparable.</p>
         </section>
         <section class="crew-member">
-            <h2>Troisième Membre : Nami</h2>
-            <p>Nami est la navigatrice de l'équipage. Elle est extrêmement douée pour lire les cartes et prédire les changements météorologiques.</p>
+            <h2>Troisième Membres : Tanaka</h2>
+            <p>Tanaka est le navigateur de l'équipage. Il est extrêmement douée pour lire les cartes et est également Commandant 2eme flotte.</p>
         </section>
         <!-- Ajoute d'autres membres de l'équipage ici -->
         <div class="discord-link">
